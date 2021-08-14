@@ -8,4 +8,16 @@ Criando um repositório do zero:
 - git status para vizualizar o andamento de conteúdo;
 - git add . para adicionar os arquivos modificados na staging;
 - git commit -m "Criando repositório" para salvar;
+- git log para verificar os commits realizados e o autor(com dada e hora), no caso teve 1, só mostrará esse;
+- git show para mostrar o commit recente realizado com todos os detalhes, inclusive o que tem dentro deste arquivo;
+- com essas alterações escritas aqui após o primeiro commit, será add e commitado novamente;
+- subir todo esse repositótio local para o remoto, GitHub;
+- para subir, precisa abrir o repositório no GitHub;
+- após aberto o repositório remoto, aplicando o git remote add origin https://github.com/Juhbm/Criando-um-repositorio.git(endereço copiado em https do repositório do GitHub);
+- aplicar o git branch -M main para trocar nomencaltura de master para main (alteração atual do Git);
+- comando git push -u origin main para enviar o arquivo local para o remoto (GitHub);
+- estando no GitHub todo arquivo corretamente, envio convite para o(a)colaborador(a) que irá clonar o repositório, efetuar branch e enviar para o repositório remoto novamente;
+ 
+
+
 
