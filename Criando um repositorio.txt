@@ -1,0 +1,11 @@
+==-==-==-==-==-==
+Criando um repositório do zero:
+
+- abrir pasta no repositório local;
+- abrir o Git Bash (botão direito do mouse) nessa pasta criada;
+- aplicar o comando git init para inicializar a pasta no git;
+- criar um arquivot.txt e inserir o conteúdo nele (este conteúdo que está sendo lido);
+- git status para vizualizar o andamento de conteúdo;
+- git add . para adicionar os arquivos modificados na staging;
+- git commit -m "Criando repositório" para salvar;
+
