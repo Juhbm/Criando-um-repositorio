@@ -1,4 +1,4 @@
-## Aqui iremos adicionar novas funções ao código
+Aqui iremos adicionar novas funções ao código
 
-### Exercício de criação de repositório
-**Essa é uma nova branch** 
+Exercício de criação de repositório
+Essa é uma nova branch 
