@@ -1,0 +1,15 @@
+
+Retornando...
+... no GitHub foi aceito o convite do(a) colaborador(a);
+
+- no Git Bash da pasta local em andamento comando git fetch para buscar a branch remota;
+- comando git branch -a para visualizar todas as branchs locais e remotas;
+- sim, foi puxado corretamente a branch remota;
+- criado um arquivo, na pasta local, que precisa ser ignorado, nome arquivo.txt;
+- criado o arquivo chamado .gitignore(sem o txt) e dentro dele escrito: arquivo.txt(que será ignorado);
+- no Git Bash, foi criada outra branch nome retorno e na pasta local arquivo chamado Retorno(que é este);
+- .gitnore criado, nova branch com novo conteúdo criado e seguiu para adicionar e commitar;
+- git status para ver alterações novas: aparece o .gitignore e o Retorno.txt;
+- git add .;
+- git commit -m "Retornando para o GitHub";
+- enviado novamente para o GitHub com git push origin retorno;
